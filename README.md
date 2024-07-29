@@ -43,3 +43,7 @@ Credentials and sensitive information will not be stored directly in the codebas
 - Encrypted Files: If sensitive information must be stored in a file, the file will be encrypted, and the decryption key will be stored securely.
 
 
+## Burndown Chart
+![image](https://github.com/user-attachments/assets/e6a912c9-2531-4f73-a47b-224eee7fa962)
+
+
